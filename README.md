@@ -18,7 +18,7 @@ https://openweathermap.org/current
 
 ### Whom do I talk to? ###
 
-* RAvi Kant  Singh :(https://www.instagram.com/singh.ravi19/?igsh=Mm4ydmNiZnZ0OWRj)
+* Ravi Kant  Singh :(https://www.instagram.com/singh.ravi19/?igsh=Mm4ydmNiZnZ0OWRj)
 
 ### How can I appreciate this repo? ###
 
