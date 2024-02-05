@@ -1,4 +1,27 @@
-# Getting Started with Create React App
+# Ge# React Weather App - ReactJS Projects
+
+![](weather.gif)
+
+### Demo - Deployed over Vercel.com 
+https://react-weather-app-three-iota.vercel.app/
+
+### APIs Used
+[Open Weather APIs](https://openweathermap.org/)
+
+https://openweathermap.org/current
+
+### API Info
+* Method: `GET`
+* URL: `https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid={API_KEY}`
+
+
+
+### Whom do I talk to? ###
+
+* Ravi Kant  Singh :(https://www.instagram.com/singh.ravi19/?igsh=Mm4ydmNiZnZ0OWRj)
+
+### How can I appreciate this repo? ###
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
