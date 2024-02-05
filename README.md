@@ -1,9 +1,10 @@
 # Ge# React Weather App - ReactJS Projects
 
-![](weather.gif)
-
 ### Demo - Deployed over Vercel.com 
 https://react-weather-app-three-iota.vercel.app/
+
+![](weather.gif)
+
 
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
