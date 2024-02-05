@@ -2,7 +2,7 @@
 
 ![](weather.gif)
 
-### Demo - Deployed over Github Pages 
+### Demo - Deployed over Vercel.com 
 https://react-weather-app-three-iota.vercel.app/
 
 ### APIs Used
